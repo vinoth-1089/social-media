@@ -1,0 +1,7 @@
+.propic,p{
+    position: absolute;
+    left: 200px;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}

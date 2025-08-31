@@ -1,0 +1,507 @@
+{
+  "Posts": [
+    {
+      "id": "post001",
+      "user": {
+        "username": "travel_with_aarav",
+        "profileImage": "https://randomuser.me/api/portraits/men/45.jpg",
+        "location": "Jaipur, Rajasthan"
+      },
+      "timestamp": "1h",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+      "likes": 128,
+      "likedBy": [
+        "user5",
+        "user8",
+        "user12"
+      ],
+      "liked": true,
+      "caption": {
+        "text": "Exploring the Pink City 🏰✨",
+        "hashtags": [
+          "#jaipur",
+          "#travelgram",
+          "#royal",
+          "#rajasthan",
+          "#india"
+        ],
+        "emojis": [
+          "🕌",
+          "🌸"
+        ]
+      },
+      "commentsCount": 8,
+      "isLiked": true
+    },
+    {
+      "id": "post002",
+      "user": {
+        "username": "coding_sam",
+        "profileImage": "https://randomuser.me/api/portraits/men/76.jpg",
+        "location": "Bangalore, India"
+      },
+      "timestamp": "4h",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "likes": 251,
+      "likedBy": [
+        "dev_101",
+        "user15",
+        "geeky_girl"
+      ],
+      "caption": {
+        "text": "Late night debugging session ☕💻",
+        "hashtags": [
+          "#coding",
+          "#developerlife",
+          "#python",
+          "#javascript",
+          "#tech"
+        ],
+        "emojis": [
+          "🔥",
+          "⚡"
+        ]
+      },
+      "commentsCount": 15,
+      "isLiked": false,
+      "liked": true
+    },
+    {
+      "id": "post003",
+      "user": {
+        "username": "nature_shots_by_ria",
+        "profileImage": "https://randomuser.me/api/portraits/women/63.jpg",
+        "location": "Munnar, Kerala"
+      },
+      "timestamp": "10h",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "likes": 431,
+      "likedBy": [
+        "user9",
+        "traveller007",
+        "eco_life"
+      ],
+      "caption": {
+        "text": "Serenity in the lap of nature 🌿💚",
+        "hashtags": [
+          "#nature",
+          "#travelphotography",
+          "#kerala",
+          "#greenery",
+          "#mountains"
+        ],
+        "emojis": [
+          "🌄",
+          "🌱"
+        ]
+      },
+      "commentsCount": 23,
+      "isLiked": true,
+      "liked": true
+    },
+    {
+      "id": "post004",
+      "user": {
+        "username": "chef_akshay",
+        "profileImage": "https://randomuser.me/api/portraits/men/11.jpg",
+        "location": "Mumbai, India"
+      },
+      "timestamp": "2d",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "likes": 391,
+      "likedBy": [
+        "foodie_anu",
+        "spicylover",
+        "user14"
+      ],
+      "caption": {
+        "text": "Street food diaries 🍲🔥",
+        "hashtags": [
+          "#foodie",
+          "#mumbai",
+          "#streetfood",
+          "#indianfood"
+        ],
+        "emojis": [
+          "🍛",
+          "🍴"
+        ]
+      },
+      "commentsCount": 40,
+      "isLiked": false,
+      "liked": true
+    },
+    {
+      "id": "post005",
+      "user": {
+        "username": "fitness_raj",
+        "profileImage": "https://randomuser.me/api/portraits/men/15.jpg",
+        "location": "Delhi, India"
+      },
+      "timestamp": "5h",
+      "image": "https://images.unsplash.com/photo-1558611848-73f7eb4001a1",
+      "likes": 276,
+      "likedBy": [
+        "fit_girl",
+        "user3",
+        "trainer_amit"
+      ],
+      "caption": {
+        "text": "Consistency is key 💪",
+        "hashtags": [
+          "#fitness",
+          "#gym",
+          "#motivation",
+          "#healthylifestyle"
+        ],
+        "emojis": [
+          "🏋️",
+          "🔥"
+        ]
+      },
+      "commentsCount": 12,
+      "isLiked": true,
+      "liked": true
+    },
+    {
+      "id": "post006",
+      "user": {
+        "username": "artsy_anu",
+        "profileImage": "https://randomuser.me/api/portraits/women/28.jpg",
+        "location": "Pondicherry, India"
+      },
+      "timestamp": "1d",
+      "image": "https://images.unsplash.com/photo-1526481280691-906943e1d0f0",
+      "likes": 321,
+      "likedBy": [
+        "artlover22",
+        "user19",
+        "paint_with_me"
+      ],
+      "caption": {
+        "text": "Colors speak louder than words 🎨✨",
+        "hashtags": [
+          "#art",
+          "#painting",
+          "#aesthetic",
+          "#creative"
+        ],
+        "emojis": [
+          "🎭",
+          "🖌️"
+        ]
+      },
+      "commentsCount": 17,
+      "isLiked": false,
+      "liked": true
+    },
+    {
+      "id": "post007",
+      "user": {
+        "username": "wanderlust_megha",
+        "profileImage": "https://randomuser.me/api/portraits/women/12.jpg",
+        "location": "Paris, France"
+      },
+      "timestamp": "12h",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+      "likes": 511,
+      "likedBy": [
+        "globetrotter",
+        "user20",
+        "backpacker_life"
+      ],
+      "caption": {
+        "text": "Paris is always a good idea 💕",
+        "hashtags": [
+          "#paris",
+          "#travelblogger",
+          "#wanderlust",
+          "#france"
+        ],
+        "emojis": [
+          "🗼",
+          "❤️"
+        ]
+      },
+      "commentsCount": 34,
+      "isLiked": true,
+      "liked": true
+    },
+    {
+      "id": "post008",
+      "user": {
+        "username": "tech_guru",
+        "profileImage": "https://randomuser.me/api/portraits/men/50.jpg",
+        "location": "Silicon Valley, USA"
+      },
+      "timestamp": "3h",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+      "likes": 601,
+      "likedBy": [
+        "devqueen",
+        "ai_master",
+        "cloud_coder"
+      ],
+      "caption": {
+        "text": "AI is not the future, it's the present 🤖⚡",
+        "hashtags": [
+          "#AI",
+          "#machinelearning",
+          "#futuretech",
+          "#codinglife"
+        ],
+        "emojis": [
+          "🤖",
+          "🚀"
+        ]
+      },
+      "commentsCount": 42,
+      "isLiked": false,
+      "liked": true
+    },
+    {
+      "id": "post009",
+      "user": {
+        "username": "bookworm_priya",
+        "profileImage": "https://randomuser.me/api/portraits/women/42.jpg",
+        "location": "Chennai, India"
+      },
+      "timestamp": "7h",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "likes": 181,
+      "likedBy": [
+        "reader_sam",
+        "litlover",
+        "poetry_addict"
+      ],
+      "caption": {
+        "text": "Lost in words 📚☕",
+        "hashtags": [
+          "#books",
+          "#reading",
+          "#literature",
+          "#bookstagram"
+        ],
+        "emojis": [
+          "📖",
+          "💭"
+        ]
+      },
+      "commentsCount": 11,
+      "isLiked": true,
+      "liked": true
+    },
+    {
+      "id": "post010",
+      "user": {
+        "username": "gamer_arjun",
+        "profileImage": "https://randomuser.me/api/portraits/men/66.jpg",
+        "location": "Hyderabad, India"
+      },
+      "timestamp": "9h",
+      "image": "https://images.unsplash.com/photo-1580128637393-4e3b60c68e52",
+      "likes": 351,
+      "likedBy": [
+        "pro_player",
+        "esports_fan",
+        "user25"
+      ],
+      "caption": {
+        "text": "Leveling up ⚡🎮",
+        "hashtags": [
+          "#gaming",
+          "#esports",
+          "#streamer",
+          "#gamerslife"
+        ],
+        "emojis": [
+          "🎮",
+          "🔥"
+        ]
+      },
+      "commentsCount": 19,
+      "isLiked": false,
+      "liked": true
+    }
+  ],
+  "profile": [
+    {
+      "user": {
+        "username": "_mr.vinoth",
+        "profileImage": "./src/assets/linex.jpg"
+      },
+      "id": "d9ae"
+    }
+  ],
+  "suggestion": [
+    {
+      "user": {
+        "username": "devqueen",
+        "profileImage": "https://randomuser.me/api/portraits/women/34.jpg"
+      },
+      "id": "32fb"
+    },
+    {
+      "user": {
+        "username": "eco_life",
+        "profileImage": "https://randomuser.me/api/portraits/men/29.jpg"
+      },
+      "id": "666d"
+    },
+    {
+      "user": {
+        "username": "traveller007",
+        "profileImage": "https://randomuser.me/api/portraits/men/19.jpg"
+      },
+      "id": "3ff7"
+    },
+    {
+      "user": {
+        "username": "pro_player",
+        "profileImage": "https://randomuser.me/api/portraits/men/75.jpg"
+      },
+      "id": "5cac"
+    },
+    {
+      "user": {
+        "username": "reader_sam",
+        "profileImage": "https://randomuser.me/api/portraits/men/23.jpg"
+      },
+      "id": "2227"
+    }
+  ],
+  "story": [
+    {
+      "user": {
+        "id": 1,
+        "username": "coding_sam",
+        "profileImage": "https://randomuser.me/api/portraits/men/76.jpg"
+      },
+      "id": "db79"
+    },
+    {
+      "user": {
+        "id": 2,
+        "username": "nature_shots_by_ria",
+        "profileImage": "https://randomuser.me/api/portraits/women/63.jpg"
+      },
+      "id": "b516"
+    },
+    {
+      "user": {
+        "id": 3,
+        "username": "chef_akshay",
+        "profileImage": "https://randomuser.me/api/portraits/men/11.jpg"
+      },
+      "id": "d277"
+    },
+    {
+      "user": {
+        "id": 4,
+        "username": "fitness_raj",
+        "profileImage": "https://randomuser.me/api/portraits/men/15.jpg"
+      },
+      "id": "0164"
+    },
+    {
+      "user": {
+        "id": 5,
+        "username": "artsy_anu",
+        "profileImage": "https://randomuser.me/api/portraits/women/28.jpg"
+      },
+      "id": "60d8"
+    },
+    {
+      "user": {
+        "id": 6,
+        "username": "wanderlust_megha",
+        "profileImage": "https://randomuser.me/api/portraits/women/12.jpg"
+      },
+      "id": "f2b4"
+    },
+    {
+      "user": {
+        "id": 7,
+        "username": "tech_guru",
+        "profileImage": "https://randomuser.me/api/portraits/men/50.jpg"
+      },
+      "id": "36da"
+    },
+    {
+      "user": {
+        "id": 8,
+        "username": "bookworm_priya",
+        "profileImage": "https://randomuser.me/api/portraits/women/42.jpg"
+      },
+      "id": "1fa2"
+    },
+    {
+      "user": {
+        "id": 9,
+        "username": "gamer_arjun",
+        "profileImage": "https://randomuser.me/api/portraits/men/66.jpg"
+      },
+      "id": "0338"
+    },
+    {
+      "user": {
+        "id": 10,
+        "username": "travel_with_aarav",
+        "profileImage": "https://randomuser.me/api/portraits/men/45.jpg"
+      },
+      "id": "53e9"
+    }
+  ],
+  "viewstory": [
+    {
+      "id": "1",
+      "username": "eco_life",
+      "profileImage": "https://randomuser.me/api/portraits/men/29.jpg"
+    },
+    {
+      "id": "2",
+      "username": "devqueen",
+      "profileImage": "https://randomuser.me/api/portraits/women/34.jpg"
+    },
+    {
+      "id": "3",
+      "username": "globetrotter",
+      "profileImage": "https://randomuser.me/api/portraits/women/55.jpg"
+    },
+    {
+      "id": "4",
+      "username": "reader_sam",
+      "profileImage": "https://randomuser.me/api/portraits/men/23.jpg"
+    },
+    {
+      "id": "5",
+      "username": "litlover",
+      "profileImage": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    {
+      "id": "6",
+      "username": "paint_with_me",
+      "profileImage": "https://randomuser.me/api/portraits/women/49.jpg"
+    },
+    {
+      "id": "7",
+      "username": "foodie_anu",
+      "profileImage": "https://randomuser.me/api/portraits/women/26.jpg"
+    },
+    {
+      "id": "8",
+      "username": "pro_player",
+      "profileImage": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    {
+      "id": "9",
+      "username": "traveller007",
+      "profileImage": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    {
+      "id": "10",
+      "username": "ai_master",
+      "profileImage": "https://randomuser.me/api/portraits/men/36.jpg"
+    }
+  ]
+}
