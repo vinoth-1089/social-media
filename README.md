@@ -1,42 +1,41 @@
-# 📸 Instagram Clone  
+# 📸 Instagram Clone
 
-A full-featured Instagram-like clone built for learning and demonstration purposes.  
-Includes authentication, posts, likes, comments, and a responsive UI.  
-
----
-
-## 🚀 Live Demo  
-🔗 [View Demo](https://insta-webapp.netlify.app/) 
+A *full-stack Instagram Clone* built with React, Node.js, Express, and MongoDB.  
+Includes authentication, posts, likes, comments, and profile management.
 
 ---
 
-## ✨ Features  
-- 👤 *User Authentication* – Signup / Login with secure JWT auth  
-- 🖼 *Post Creation* – Upload images with captions  
-- ❤ *Like & Comment* – Engage with posts in real-time  
-- 🔄 *Follow / Unfollow* – Connect with other users  
-
+## 🚀 Features
+- 👤 User authentication (JWT-based login/signup)
+- 🖼 Create, edit & delete posts with images
+- ❤ Like & comment on posts
+- 🔄 Follow & unfollow users
+- 📱 Responsive UI (mobile-first)
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
+### Frontend
+- ⚛ React  
+- 🎨 Tailwind CSS  
+- 🌐 React Router  
 
-### 🌐 Frontend  
-- ⚛ React (with Hooks & Router)  
-- 🎨 Bootstrap
-
-### 🔧 Backend  (In future)
+### Backend
 - 🟢 Node.js + Express  
-- 🗄 MongoDB (Mongoose ORM)  
+- 🗄 MongoDB + Mongoose  
 - 🔐 JWT Authentication  
-- 📂 Multer + Cloudinary (for image uploads)  
+- 📂 Cloudinary / Multer for image uploads  
 
 ---
 
-## 🖥 Quick Start (Local)  
+## 📂 Deployment
+- 🌍 Frontend → Netlify / Vercel  
+- ⚙ Backend → Render / Railway  
+- 🖼 Storage → Cloudinary / AWS S3  
 
-1. *Clone Repo*  
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/instagram-clone.git
-   cd instagram-clone
+🔗 Live Demo: [View Project](https://insta-webapp.netlify.app/)  
 
+---
+
+## 👨‍💻 Author
+Built with ❤ by [*Vinoth*]([https://github.com/vinoth-1089])
