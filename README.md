@@ -6,7 +6,7 @@ Includes authentication, posts, likes, comments, and a responsive UI.
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Demo](https://insta-webapp.netlify.app/) (replace with your deployed link)  
+🔗 [View Demo](https://insta-webapp.netlify.app/) 
 
 ---
 
@@ -39,3 +39,4 @@ Includes authentication, posts, likes, comments, and a responsive UI.
    ```bash
    git clone https://github.com/YOUR-USERNAME/instagram-clone.git
    cd instagram-clone
+
